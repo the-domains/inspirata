@@ -1,0 +1,28 @@
+name: Inspirata
+favicon: null
+layout_spectrum: 0.21533459541387856
+typography_spectrum: 0.6163933763746172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.368714451091364
+  lightness: 0.07179611152969301
+  saturation: 0.5220737226773053
+  rhythmicContrast: 0.837446725461632
+purpose: []
