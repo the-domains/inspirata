@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Inspirata]]></title>
+        <description><![CDATA[Inspirata]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 22:18:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On the Grid | Neighborhood guides by local creatives]]></title>
+            <description><![CDATA[<article><h1>On the Grid | Neighborhood guides by local creatives</h1><p>Neighborhood guides by local creatives. On the Grid is created by Hyperakt and curated by amazing designers around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2cd772f465a98276077a50b6ad3e330026a24f2.png"></article>]]></description>
+            <link>http://www.onthegrid.city/</link>
+            <guid isPermaLink="false">dcfaf43f-faaa-4052-a17f-c87426c67054</guid>
+            <pubDate>Fri, 01 Apr 2016 22:18:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
