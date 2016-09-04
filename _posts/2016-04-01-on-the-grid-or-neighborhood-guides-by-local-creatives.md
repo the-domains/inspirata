@@ -18,8 +18,8 @@ keywords:
 description: >-
   Neighborhood guides by local creatives. On the Grid is created by Hyperakt and
   curated by amazing designers around the world.
-datePublished: '2016-09-01T09:21:05.049Z'
-dateModified: '2016-09-01T09:20:52.568Z'
+datePublished: '2016-09-01T09:21:18.834Z'
+dateModified: '2016-09-01T09:21:16.549Z'
 author:
   - name: ''
     url: ''
@@ -34,7 +34,7 @@ publisher:
   url: 'http://www.onthegrid.city'
   favicon: 'http://www.onthegrid.city/images/favicons/16x16/favicon-16x16.png'
 via: {}
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
